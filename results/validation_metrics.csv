@@ -1,0 +1,9 @@
+metric,value
+Accuracy,0.5933609958506224
+ROC-AUC,0.41908091908091905
+Brier Score,0.2496145367151104
+Majority-Class Accuracy,0.5933609958506224
+True Negatives,0.0
+False Positives,98.0
+False Negatives,0.0
+True Positives,143.0
